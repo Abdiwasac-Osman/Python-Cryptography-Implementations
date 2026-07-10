@@ -1,0 +1,89 @@
+=================================================
+ Python Cryptography Implementations
+ Installation & Usage Guide
+=================================================
+
+1. Clone Repository
+-------------------
+
+Download the project using Git:
+
+git clone https://github.com/your-username/Python-Cryptography-Implementations.git
+
+Move into the project folder:
+
+cd Python-Cryptography-Implementations
+
+
+2. Install Requirements
+-----------------------
+
+Make sure Python 3 is installed.
+
+Install required libraries:
+
+pip install pyCryptodome
+
+
+3. Run Cryptography Labs
+------------------------
+
+Lab 1 - Caesar Cipher:
+
+cd 01_Caesar_Cipher
+
+python caesar_cipher.py
+
+
+Lab 2 - DES Encryption:
+
+cd 02_DES_Encryption
+
+python des_encryption.py
+
+
+Lab 3 - AES Encryption:
+
+cd 03_AES_Encryption
+
+python aes_encryption.py
+
+
+Lab 4 - RSA Encryption:
+
+cd 04_RSA_Encryption
+
+python rsa_encryption.py
+
+
+Lab 5 - RSA Key Generation:
+
+cd 05_RSA_Key_Generation
+
+python rsa_key_generation.py
+
+
+Requirements:
+-------------
+
+- Python 3.x
+- PyCryptodome Library
+
+
+Note:
+-----
+
+This project is created for educational purposes to understand
+cryptography concepts and encryption algorithms.
+
+Do not use these implementations directly for production
+security systems.
+
+
+Author:
+-------
+
+Abdiwasac Ahmed Osman
+
+Cybersecurity Student
+Blue Team | SOC Analyst Enthusiast
